@@ -1,3 +1,5 @@
+import gui.GUIMain;
+
 import java.io.File;
 import java.io.IOException;
 
@@ -20,6 +22,12 @@ public class MainProgram {
 		for(int i = 0; i < vollprothetik.length;i++){
 			System.out.println(vollprothetik[i]);
 		}
+		
+		
+		GUIMain gui = new GUIMain();
+		gui.show();
+		
+		
 
 	}
 
