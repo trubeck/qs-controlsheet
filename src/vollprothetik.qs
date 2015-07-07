@@ -1,4 +1,0 @@
-modell,
-eins,
-zwei,
-drei
